@@ -1,0 +1,30 @@
+.title{
+    background-image: url(https://www.fcbarcelona.com/fcbarcelona/photo/2018/03/13/8bf838e7-2c6d-4f4c-9b42-b14e468b4978/Camp-Nou-Grass.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(253, 253, 253);
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+
+}
+.button-players {
+    background: white;
+    color:black;
+    border-color: gray;
+}
+
+.button-players:hover {
+    background: rgb(213, 213, 213);
+    color: black;
+    border-color: black;
+}
+.tittle-history{
+    font-family :Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Fila{
+    margin-top: 10px;
+}
+.container{
+    background-color: white;
+}

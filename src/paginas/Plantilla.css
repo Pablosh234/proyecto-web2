@@ -1,0 +1,11 @@
+.button-players {
+    background: navy;
+    color: white;
+    border-color: white;
+}
+
+.button-players:hover {
+    background: white;
+    color: black;
+    border-color: black;
+}

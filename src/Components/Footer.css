@@ -1,0 +1,64 @@
+.footer-barca {
+    background-color: #a50044; /* Granate del Barça */
+    color: #fff;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-contenido {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 20px;
+  }
+  
+  .footer-seccion {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .footer-logo {
+    height: 80px;
+    margin-bottom: 15px;
+  }
+  
+  .footer-descripcion {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .footer-enlaces {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-enlaces li {
+    margin: 10px 0;
+  }
+  
+  .footer-enlaces a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .footer-enlaces a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-redes a {
+    display: inline-block;
+    margin: 0 10px;
+    transition: transform 0.2s ease;
+  }
+  
+  .footer-redes img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .footer-redes a:hover {
+    transform: scale(1.2);
+  }

@@ -1,0 +1,28 @@
+.tarjeta-trofeo {
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+  }
+  
+  .imagen-trofeo {
+    height: 80px;
+    margin-right: 20px;
+  }
+  
+  .detalles-trofeo h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .detalles-trofeo p {
+    margin: 5px 0 0;
+    font-size: 1rem;
+    color: #555;
+  }
+  

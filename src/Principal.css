@@ -1,0 +1,10 @@
+.cont{
+    background-image: url('');
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: center;
+    height: 100vh; /* Asegura que cubra toda la pantalla */
+    width: 100%;
+    margin: 10px;
+}
